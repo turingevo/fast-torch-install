@@ -1,3 +1,12 @@
+|  |  |
+|--|--|
+| AI学习交流qq群 | 873673497  |  
+| 官网 | turingevo.com |
+| 邮箱 | wmx@turingevo.com |
+ | github | https://github.com/turingevo |
+| huggingface | https://huggingface.co/turingevo |
+
+
 # fast-torch-install
 Quickly install torch
 
