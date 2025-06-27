@@ -1,6 +1,8 @@
 # fast-torch-install
 Quickly install torch
 
+快速安装torch
+
 
 
 torch previous-versions 
